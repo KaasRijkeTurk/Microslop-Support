@@ -1,2 +1,2 @@
 # Microslop-Support
-Discord MS AI bot voor Minecraft server beheer.
+Discord MS AI bot for Minecraft server support.
