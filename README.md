@@ -17,7 +17,7 @@ A powerful Discord bot with AI chat, Minecraft server management, and full Disco
 
 ## 📋 Commands
 
-### ── Algemeen ──
+### ── general ──
 
 | Command | Description |
 |---|---|
@@ -33,7 +33,7 @@ A powerful Discord bot with AI chat, Minecraft server management, and full Disco
 | `.serverinfo` | Discord server info |
 | `.freechat` | Toggle free-chat for this channel |
 
-### ── Server Beheer ──
+### ── Server Management ──
 
 | Command | Description |
 |---|---|
