@@ -17,7 +17,7 @@ A powerful Discord bot with AI chat, Minecraft server management, and full Disco
 
 ## 📋 Commands
 
-### ── general ──
+### ── General ──
 
 | Command | Description |
 |---|---|
