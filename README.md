@@ -1,21 +1,21 @@
-# 🤖 Microslop Support Bot
+# Microslop Support Bot
 
 A powerful Discord bot with AI chat, Minecraft server management, and full Discord server setup capabilities.
 
 ---
 
-## ✨ Features
+## Features
 
-- **🧠 AI Chat** — Powered by Ollama (local LLM). Chat with the bot in DMs or mention it in any channel.
-- **⛏️ Minecraft Server Integration** — Check server status, players, mods, whitelist, bans, ops and more.
-- **🖥️ RCON Support** — Send RCON commands directly from Discord.
-- **🏗️ Server Setup** — Auto-create channels, roles, and rules with a single command.
-- **👋 Welcome System** — Custom welcome messages and auto-roles.
-- **🎉 Fun Commands** — Roasts, polls, ship calculator, mock text, coinflip and more.
+- **AI Chat** — Powered by Ollama (local LLM). Chat with the bot in DMs or mention it in any channel.
+- **Minecraft Server Integration** — Check server status, players, mods, whitelist, bans, ops and more.
+- **RCON Support** — Send RCON commands directly from Discord.
+- **Server Setup** — Auto-create channels, roles, and rules with a single command.
+- **Welcome System** — Custom welcome messages and auto-roles.
+- **Fun Commands** — Roasts, polls, ship calculator, mock text, coinflip and more.
 
 ---
 
-## 📋 Commands
+## Commands
 
 ### ── General ──
 
@@ -59,7 +59,7 @@ A powerful Discord bot with AI chat, Minecraft server management, and full Disco
 
 ---
 
-## 🚀 Setup
+## Setup
 
 ### Prerequisites
 
@@ -84,7 +84,7 @@ cp .env.example .env
 nano .env
 ```
 
-### ⚙️ Configuration
+### Configuration
 
 Open `.env` and fill in your values:
 
@@ -116,7 +116,7 @@ You can change the model name in `index.js` (look for `⚠️ Change this to you
 
 ---
 
-## ▶️ Running the Bot
+## Running the Bot
 
 ```bash
 node index.js
@@ -124,7 +124,7 @@ node index.js
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── index.js              # Main bot file
@@ -136,7 +136,7 @@ node index.js
 
 ---
 
-## ⚠️ Important
+## Important
 
 - Never commit your `.env` file — it's in `.gitignore`.
 - Change the default passwords for `.setup` and `.purge` commands in `index.js`.
@@ -144,7 +144,7 @@ node index.js
 
 ---
 
-## 📄 License
+## License
 
 MIT
 
