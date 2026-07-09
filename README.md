@@ -71,7 +71,7 @@ A powerful Discord bot with AI chat, Minecraft server management, and full Disco
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/KaasRijkeTurk/Microslop-Support
 cd "Microslop Support Bot"
 
 # 2. Install dependencies
