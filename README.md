@@ -3,6 +3,7 @@
 A powerful Discord bot with AI chat, Minecraft server management, and full Discord server setup capabilities.
 
 Languages: NL
+(English incoming)
 
 ---
 
