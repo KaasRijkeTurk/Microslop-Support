@@ -152,4 +152,4 @@ MIT
 
 ---
 
-*Made with ❤️ for Minecraft communities*
+*Created by [KaasRijkeTurk](https://github.com/KaasRijkeTurk)*
