@@ -147,10 +147,6 @@ node index.js
 
 ---
 
-## License
-
-MIT
-
----
-
 *Created by [KaasRijkeTurk](https://github.com/KaasRijkeTurk)*
+
+*Licensed under MIT License*
